@@ -1,7 +1,7 @@
 @import url("//fonts.googleapis.com/css?family=Lobster");
 
 body{
-  margin-top: 50px;
+  margin-top: 50px !important;
 }
 
 .section-title,.navbar-brand{
