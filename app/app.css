@@ -11,3 +11,8 @@ body{
   font-size: 25px;
   line-height: 1.1;
 }
+
+.genre-title{
+text-align: right;
+margin-bottom: 0px;
+}

@@ -1,0 +1,28 @@
+[
+	{
+		"id":12,
+		"name":"Action",
+		"total":10
+	},
+	{
+		"id":14,
+		"name":"Comedy",
+		"total":7
+	},
+	{
+		"id":22,
+		"name":"Crime",
+		"total":14
+	},
+	{
+		"id":8,
+		"name":"Sci-fi",
+		"total":22
+	},
+	{
+		"id":5,
+		"name":"Drame",
+		"total":7
+	}
+
+]

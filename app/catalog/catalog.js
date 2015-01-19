@@ -1,12 +1,16 @@
 
 
 angular.module('movieDB.catalog',['ui.bootstrap'])
-	.controller('catalogCtrl',['$scope','$http',function($scope,$http){
+	.controller('catalogCtrl',['$scope','movieAPIservice',function($scope,movieAPIservice){
 
 		$scope.currentPage=1;
 		$scope.pageSize = 6;
 
-		$http.get('json/movies.json').success(function(data){
+		movieAPIservice.getMovies().success(function(data){
 			$scope.movieList = data;
+		});
+
+		movieAPIservice.getGenres().success(function(data){
+			$scope.genreList = data;
 		});
 	}]);
