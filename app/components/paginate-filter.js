@@ -9,9 +9,4 @@ angular.module('movieDB.paginate-filter',[])
 				return err;
 			}
 		}
-	})
-	.filter('revert',function(){ 			// filter example to reverse a string
-		return function(input){
-			return input.split(' ').reverse().join(' ');
-		}
 	});

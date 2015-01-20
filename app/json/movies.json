@@ -3,192 +3,224 @@
 		"id":1,
 		"title":"First Movie",
 		"name":"movie 1",
-		"poster_path":"/Desert.jpg"
+		"poster_path":"/Desert.jpg",
+		"genres":"Comedy"
 	},
 	{
 		"id":2,
 		"title":"Second Movie",
 		"name":"movie 2",
-		"poster_path":"/Lighthouse.jpg"
+		"poster_path":"/Lighthouse.jpg",
+		"genres":"Comedy"
 	},
 	{
 		"id":3,
 		"title":"Third Movie",
 		"name":"movie 3",
-		"poster_path":"/Koala.jpg"
+		"poster_path":"/Koala.jpg",
+		"genres":"Action"
 	},
 	{
 		"id":4,
 		"title":"Fourth Movie",
 		"name":"movie 4",
-		"poster_path":"/Chrysanthemum.jpg"
+		"poster_path":"/Chrysanthemum.jpg",
+		"genres":"Drama"
 	},
 	{
 		"id":5,
 		"title":"Fifth Movie",
 		"name":"movie 5",
-		"poster_path":"/Hydrangeas.jpg"
+		"poster_path":"/Hydrangeas.jpg",
+		"genres":"Sci-fi"
 	},
 	{
 		"id":6,
 		"title":"Sixth Movie",
 		"name":"movie 6",
-		"poster_path":"/Jellyfish.jpg"
+		"poster_path":"/Jellyfish.jpg",
+		"genres":"Sci-fi"
 	},
 	{
 		"id":7,
 		"title":"Seven Movie",
 		"name":"movie 7",
-		"poster_path":"/Penguins.jpg"
+		"poster_path":"/Penguins.jpg",
+		"genres":"Sci-fi"
 	},
 	{
 		"id":8,
 		"title":"Eight Movie",
 		"name":"movie 8",
-		"poster_path":"/Tulips.jpg"
+		"poster_path":"/Tulips.jpg",
+		"genres":"Crime"
 	},
 	{
 		"id":1,
 		"title":"First Movie",
 		"name":"movie 1",
-		"poster_path":"/Desert.jpg"
+		"poster_path":"/Desert.jpg",
+		"genres":"Crime"
 	},
 	{
 		"id":2,
 		"title":"Second Movie",
 		"name":"movie 2",
-		"poster_path":"/Lighthouse.jpg"
+		"poster_path":"/Lighthouse.jpg",
+		"genres":"Drama"
 	},
 	{
 		"id":3,
 		"title":"Third Movie",
 		"name":"movie 3",
-		"poster_path":"/Koala.jpg"
+		"poster_path":"/Koala.jpg",
+		"genres":"Crime"
 	},
 	{
 		"id":4,
 		"title":"Fourth Movie",
 		"name":"movie 4",
-		"poster_path":"/Chrysanthemum.jpg"
+		"poster_path":"/Chrysanthemum.jpg",
+		"genres":"Drama"
 	},
 	{
 		"id":5,
 		"title":"Fifth Movie",
 		"name":"movie 5",
-		"poster_path":"/Hydrangeas.jpg"
+		"poster_path":"/Hydrangeas.jpg",
+		"genres":"Crime"
 	},
 	{
 		"id":6,
 		"title":"Sixth Movie",
 		"name":"movie 6",
-		"poster_path":"/Jellyfish.jpg"
+		"poster_path":"/Jellyfish.jpg",
+		"genres":"Sci-fi"
 	},
 	{
 		"id":7,
 		"title":"Seven Movie",
 		"name":"movie 7",
-		"poster_path":"/Penguins.jpg"
+		"poster_path":"/Penguins.jpg",
+		"genres":"Crime"
 	},
 	{
 		"id":8,
 		"title":"Eight Movie",
 		"name":"movie 8",
-		"poster_path":"/Tulips.jpg"
+		"poster_path":"/Tulips.jpg",
+		"genres":"Sci-fi"
 	},
 	{
 		"id":1,
 		"title":"First Movie",
 		"name":"movie 1",
-		"poster_path":"/Desert.jpg"
+		"poster_path":"/Desert.jpg",
+		"genres":"Action"
 	},
 	{
 		"id":2,
 		"title":"Second Movie",
 		"name":"movie 2",
-		"poster_path":"/Lighthouse.jpg"
+		"poster_path":"/Lighthouse.jpg",
+		"genres":"Action"
 	},
 	{
 		"id":3,
 		"title":"Third Movie",
 		"name":"movie 3",
-		"poster_path":"/Koala.jpg"
+		"poster_path":"/Koala.jpg",
+		"genres":"Sci-fi"
 	},
 	{
 		"id":4,
 		"title":"Fourth Movie",
 		"name":"movie 4",
-		"poster_path":"/Chrysanthemum.jpg"
+		"poster_path":"/Chrysanthemum.jpg",
+		"genres":"Action"
 	},
 	{
 		"id":5,
 		"title":"Fifth Movie",
 		"name":"movie 5",
-		"poster_path":"/Hydrangeas.jpg"
+		"poster_path":"/Hydrangeas.jpg",
+		"genres":"Sci-fi"
 	},
 	{
 		"id":6,
 		"title":"Sixth Movie",
 		"name":"movie 6",
-		"poster_path":"/Jellyfish.jpg"
+		"poster_path":"/Jellyfish.jpg",
+		"genres":"Action"
 	},
 	{
 		"id":7,
 		"title":"Seven Movie",
 		"name":"movie 7",
-		"poster_path":"/Penguins.jpg"
+		"poster_path":"/Penguins.jpg",
+		"genres":"Action"
 	},
 	{
 		"id":8,
 		"title":"Eight Movie",
 		"name":"movie 8",
-		"poster_path":"/Tulips.jpg"
+		"poster_path":"/Tulips.jpg",
+		"genres":"Action"
 	},
 	{
 		"id":1,
 		"title":"First Movie",
 		"name":"movie 1",
-		"poster_path":"/Desert.jpg"
+		"poster_path":"/Desert.jpg",
+		"genres":"Crime"
 	},
 	{
 		"id":2,
 		"title":"Second Movie",
 		"name":"movie 2",
-		"poster_path":"/Lighthouse.jpg"
+		"poster_path":"/Lighthouse.jpg",
+		"genres":"Drama"
 	},
 	{
 		"id":3,
 		"title":"Third Movie",
 		"name":"movie 3",
-		"poster_path":"/Koala.jpg"
+		"poster_path":"/Koala.jpg",
+		"genres":"Crime"
 	},
 	{
 		"id":4,
 		"title":"Fourth Movie",
 		"name":"movie 4",
-		"poster_path":"/Chrysanthemum.jpg"
+		"poster_path":"/Chrysanthemum.jpg",
+		"genres":"Drama"
 	},
 	{
 		"id":5,
 		"title":"Fifth Movie",
 		"name":"movie 5",
-		"poster_path":"/Hydrangeas.jpg"
+		"poster_path":"/Hydrangeas.jpg",
+		"genres":"Crime"
 	},
 	{
 		"id":6,
 		"title":"Sixth Movie",
 		"name":"movie 6",
-		"poster_path":"/Jellyfish.jpg"
+		"poster_path":"/Jellyfish.jpg",
+		"genres":"Sci-fi"
 	},
 	{
 		"id":7,
 		"title":"Seven Movie",
 		"name":"movie 7",
-		"poster_path":"/Penguins.jpg"
+		"poster_path":"/Penguins.jpg",
+		"genres":"Crime"
 	},
 	{
 		"id":8,
 		"title":"Eight Movie",
 		"name":"movie 8",
-		"poster_path":"/Tulips.jpg"
+		"poster_path":"/Tulips.jpg",
+		"genres":"Sci-fi"
 	}
 ]
